@@ -1,0 +1,319 @@
+*{margin: 0px;
+padding: 0px;
+}
+
+.header{background-color: #37517e;
+  height: 80vh  ;
+  
+}
+.menu{list-style-type: none;
+}
+
+.menu li a{text-decoration: none;
+color: white;
+padding: 15px 10px;}
+
+.menu li a:hover{color: darkblue;}
+.logo{color: aliceblue;
+font-weight: 700;
+font-family: Impact, Haettenschweiler, 
+'Arial Narrow Bold', sans-serif;
+font-size: 25px;}
+.Business{font-size: 50px;
+font-weight: bold;}
+
+.Business1{
+    color: rgba(255, 255, 255, 0.6);
+font-size: 24px;
+}
+.client{background-color: #f3f5fa;}
+.company{padding: 30px 10px;
+max-height: 43%;
+font-weight: bold;}
+
+.aboutus{text-align: center;
+margin-bottom: 30px;
+margin-top: 30px;}
+
+.whyus{background-color: #f3f5fa;}
+.why{margin: 100px 0px;}
+.a4{margin-top: 100px;}
+div .p1{margin-bottom: 50px  ;}
+
+.acoordianlist{margin-bottom: 100px;}
+.progress{margin-bottom: 20px;}
+.btn1{background-color:skyblue;
+width: 150px;
+height: 45px;
+color: #f3f5fa;
+font-weight: bold;
+border: transparent;
+border-radius: 20px;}
+
+.btn1:hover{background-color:rgb(15, 161, 219);}
+
+#getstart{border: 2px solid skyblue;
+  width: 150px;
+  height: 45px;
+  color: white;
+  font-weight: 400;
+  border-radius: 20px;}
+  #getstart:hover{
+    background-color: skyblue;
+  }
+  .btn3{border: 2px solid skyblue;
+    width: 150px;
+    height: 45px;
+    color: skyblue;
+    font-weight: 500;
+    border-radius: 5px;}
+.btn3:hover{background-color: skyblue;
+color: white;}
+.iconbox{
+width: 100%;
+height: 250px;
+background-color: #f3f5fa;
+margin-bottom: 100px;
+box-shadow: 2px 2px 5px black;}
+.iconbox .a5{text-decoration: none;
+margin-left: 20px;
+font-size: 20px;
+color: #37517e;
+font-weight: bold;
+
+}
+.iconbox:hover
+{box-shadow: 2px 2px 5px red;
+
+}
+.btn4{border: 2px solid skyblue;
+  width: 150px;
+  height: 45px;
+  color:white;
+  background-color: transparent;
+  font-weight: 500;
+  border-radius: 5px;
+margin-top: 120px;
+margin-bottom: 120px;}
+
+.actionh1{margin-top: 100px;}
+.team{background-color: #f3f5fa;}
+.team2{float: left;
+width: 30%;
+height: auto;
+margin: 35px;
+border-radius:100px;}
+
+.team1{border: transparent;
+width: 95%;
+height: 250px;
+margin-top: 30px;
+margin-bottom: 20px;
+box-shadow: 2px 2px 5px black;}
+
+.icon1{text-shadow: 4px 4px 8px black;}
+.pricing{background-color: white;}
+  .pricing1{width: 98%;
+  height: auto;
+border: transparent;
+border-radius: 5px;
+box-shadow: 2px 2px 3px black;}
+
+.a6{padding-left: 30px;
+  padding-top: 60px;
+color: #37517e;
+}
+.p5{color: #37517e;
+padding-left: 30px;
+font-size: 30px;
+
+}
+.p6{padding-left: 30px;
+font-size: 15px;}
+
+.s1{font-size: 50px;}
+.LIST1{list-style-type: none;
+  
+}
+.btn5{border: 2px solid rgb(80, 179, 218);
+  width: 150px;
+  height: 50px;
+  color:rgb(37, 166, 216);
+  background-color: transparent;
+  font-weight: 500;
+  border-radius: 50px;
+margin-top: 30px;
+margin-bottom: 30px;}
+
+.section{text-align: center;
+color: #37517e;
+margin: 50px;}
+
+.price2{border-top: 5px solid skyblue;}
+
+.btn6{
+  width: 150px;
+  height: 50px;
+  background-color:rgb(37, 166, 216);
+  color: white;
+  font-weight: 500;
+  border-radius: 50px;
+margin-top: 30px;
+margin-bottom: 30px;}
+
+.btn5:hover{background-color
+  :rgba(0, 94, 255, 0.907) ;
+color: white;
+transition: ease-in-out 0.3s;
+}
+
+.question{list-style-type: none;}
+
+.question li a{text-decoration: none;
+}
+.p7{text-align: center;
+margin-bottom: 30px;}
+
+.question li{background-color: #e9ebefa5;
+max-width: 1000px;
+margin-left: 150px;
+
+}
+.qst{background-color: #f3f5fa;}
+.contact1{width: 90%;
+height: 600px auto;
+box-shadow: 2px 2px 4px grey;
+margin-bottom: 50px;
+margin-top: 50px;
+
+}
+.mapimg{width: 90%;
+margin:5% ;}
+.name{width: 90%;
+height: 40px;
+margin-bottom: 50px;}
+.name1{width: 90%;
+height: 40px;
+
+margin-bottom: 50px;}
+.text1{width: 90%;
+height: 100px;
+border:1px solid skyblue;}
+.btn7{width: 150px;
+  height: 50px;
+  background-color:rgb(114, 165, 184);
+  color: white;
+  font-weight: 500;
+  border-radius: 50px;
+  border: transparent;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 30%;}
+.contact1{margin-top: 50px;}
+
+
+.btn7:hover
+{background-color: skyblue;}
+
+.newslater{height: 300px ;
+background-color: white;}
+
+.news2{width:100px;
+text-align: center;}
+.input1{width: 40%;
+height: 40px;
+}
+.btn8{width: 10%;
+  height: 40px;
+  background-color:rgb(46, 172, 217);
+  color: white;
+  font-weight: 500;
+  border-radius: 50px;
+  border: transparent;
+  margin-left: -50px;
+}
+.input1
+{border-bottom-left-radius: 20px;
+border-top-left-radius :20px;
+margin-left: 28%;
+width: 40%;
+border: 1px solid gray;}
+
+.letestnews{list-style-type: none;}
+
+.letestnews li a{text-decoration: none;
+display: inline-block;
+line-height: 2;
+font-family: "Open Sans", sans-serif;
+
+
+}
+
+.letestnews li::before{content: "\f101";
+  font-family: fontAwesome;}
+.foter{background-color: #f3f5fa;}
+#social{list-style-type: none;
+display: flex;
+}
+#social li a{text-decoration: none;
+  margin-left: 10px;
+  background-color: #c0c8de;
+  padding: 10px;
+  border: transparent;
+  border-radius: 20px;
+  }
+
+  .footerend{background: rgba(40, 58, 90, 0.9);
+  height: 80px;
+}
+
+.footerend p{color: white;
+padding-top: 30px;}
+.port{overflow: hidden;}
+
+.img1:hover{transform: scaleX(2);
+overflow: hidden;
+transition: ease-in-out 0.7s;}
+.prt1{overflow: hidden;}
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+  .header {
+      height: auto; 
+      padding-top: 20px; 
+  }
+
+  .menu {
+      text-align: center; 
+      padding-top: 20px; 
+  }
+
+  .logo {
+      text-align: center; 
+      margin-bottom: 20px; 
+  }
+
+  .menu li {
+      display: block; 
+      margin-bottom: 10px;
+  }
+
+  .menu li a {
+      display: block; 
+      padding: 10px 0; 
+  }
+}
+
+
+
+
+
+
+
+
